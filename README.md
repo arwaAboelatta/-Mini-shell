@@ -6,7 +6,7 @@ This is a simple shell implementation in C. The shell supports basic command exe
 
 - Execute multiple commands in sequence.
 - Input and output redirection.
-- Basic support for built-in commands (e.g., `cd`,'ls','pwd').
+- Basic support for built-in commands 
 - Signal handling for child process termination.
 - Wildcard support for pattern matching in file names.
 
